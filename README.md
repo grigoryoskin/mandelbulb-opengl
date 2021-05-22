@@ -30,5 +30,5 @@ make
 ./raymarch
 ```
 
-If you make a chanche to a shader file, it's enough to just re-run the binary since shaders are loaded at run time.
+If you make a change to a shader file, it's enough to just re-run the binary since shaders are loaded at run time.
 Camera and shader classes are from https://github.com/JoeyDeVries/LearnOpenGL/
