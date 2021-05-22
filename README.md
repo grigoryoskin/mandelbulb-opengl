@@ -1,5 +1,7 @@
 # OpenGL ray marcher with mandelbulb fractal.
 
+![Screen Recording 2021-05-22 at 17 33 44-2](https://user-images.githubusercontent.com/44236259/119221202-21cbf500-bb29-11eb-9956-13f886788a06.gif)
+
 # Build on Mac OS (And possibly linux)
 This is how you could build this project:
 
